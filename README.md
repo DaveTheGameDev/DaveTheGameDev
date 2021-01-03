@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Conway</h1>
+<h1 align="center">Howdy, I'm David Conway</h1>
 <h3 align="center">I like to make games!</h3>
 
 
