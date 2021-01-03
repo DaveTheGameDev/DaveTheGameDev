@@ -4,12 +4,11 @@
 
 
 
-<p align="left"> 
-  <a href="center://twitter.com/davethegamedev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/davethegamedev?logo=twitter&style=for-the-badge" alt="davethegamedev" />
-  </a> 
 <p align="center"> 
-  <a href="https://linkedin.com/in/david-conway-gamedev" target="blank">
+  <a href="https://twitter.com/davethegamedev" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="davethegamedev" />
+  </a> 
+<a href="https://linkedin.com/in/david-conway-gamedev" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="david-conway-gamedev" />
   </a> 
 </p>
