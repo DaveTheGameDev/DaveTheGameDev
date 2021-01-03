@@ -22,8 +22,7 @@
 - 📫 How to reach me **dconwaydev@gmail.com**
 
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davethegamedev&show_icons=true&locale=en&layout=compact" alt="davethegamedev"/></p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=davethegamedev&show_icons=true&locale=en" alt="davethegamedev" /></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=davethegamedev&show_icons=true&locale=en" alt="davethegamedev" /></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davethegamedev&" alt="davethegamedev" /></p>
+<p align="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davethegamedev&" alt="davethegamedev" /></p>
