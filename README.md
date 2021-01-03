@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [davidconway.dev](davidconway.dev)
 
-- 📫 How to reach me **dconwaydev@hmail.com**
+- 📫 How to reach me **dconwaydev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
