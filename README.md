@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm David Conway</h1>
 <h3 align="center">I like to make games!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davethegamedev&label=Profile%20views&color=0e75b6&style=flat" alt="davethegamedev" /> </p>
+
 
 
 <p align="left"> 
-  <a href="https://twitter.com/davethegamedev" target="blank">
+  <a href="center://twitter.com/davethegamedev" target="blank">
     <img src="https://img.shields.io/twitter/follow/davethegamedev?logo=twitter&style=for-the-badge" alt="davethegamedev" />
   </a> 
-</p>
-
-<p align="left"> 
+<p align="center"> 
   <a href="https://linkedin.com/in/david-conway-gamedev" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="david-conway-gamedev" />
   </a> 
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=davethegamedev&label=Profile%20views&color=0e75b6&style=flat" alt="davethegamedev" /> </p>
 
 - All of my projects are available at [https://www.davidconway.dev](davidconway.dev)
 
