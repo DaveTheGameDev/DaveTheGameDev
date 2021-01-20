@@ -2,6 +2,9 @@
 <h3 align="center">I like to make games! </h3>
 
 <p align="center"> 
+  <a href="https://davidconway.dev/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=site&logoColor=white" alt="https://davidconway.dev/" />
+  </a> 
   <a href="https://twitter.com/davethegamedev" target="blank">
     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="davethegamedev" />
   </a> 
@@ -10,9 +13,6 @@
   </a> 
   <a href="mailto: dconwaydev@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="dconwaydev@gmail.com" />
-  </a> 
-   <a href="https://davidconway.dev/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=site&logoColor=white" alt="dconwaydev@gmail.com" />
   </a> 
 </p>
 
