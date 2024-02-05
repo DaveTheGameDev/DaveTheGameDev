@@ -1,5 +1,5 @@
-<h1 align="center">Howdy, I'm David Conway</h1>
-<h3 align="center">I like to make games! </h3>
+<h1 align="center">Howdy, I'm David Cauchi</h1>
+<h3 align="center">I am a game developer from Australia.</h3>
 
 <p align="center"> 
   <a href="https://davidconway.dev/" target="blank">
