@@ -5,11 +5,8 @@
   <a href="https://davidcauchi.dev/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=site&logoColor=white" alt="https://davidcauchi.dev/" />
   </a> 
-<a href="https://www.linkedin.com/in/david-cauchi/" target="blank">
+   <a href="https://www.linkedin.com/in/david-cauchi/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="david-cauchi" />
-  </a> 
-  <a href="mailto: dconwaydev@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="dconwaydev@gmail.com" />
   </a> 
 </p>
 
